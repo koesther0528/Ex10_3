@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ex10_3</string>
+    <string name="btn_call">전화 걸기</string>
+    <string name="btn_finish">끝내기</string>
+</resources>
